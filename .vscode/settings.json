@@ -1,0 +1,8 @@
+{
+    "dart.env": {
+        "PUB_HOSTED_URL": "https://pub.dev"
+    },
+    "dart.flutterSdkPath": ".fvm/flutter_sdk",
+    "dart.onlyAnalyzeProjectsWithOpenFiles": false
+}
+
